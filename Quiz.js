@@ -12,6 +12,16 @@ const questions =[
         ]
     },
     {
+        questions: "who is the founder of PAUL ICT HUB NIGERIA",
+        answer:[
+            {text: "A. Peter James", correct: false},
+            {text: "B. Akere G. Paul", correct: true},
+            {text: "C. Confidence Paul", correct: false},
+            {text: "D. Titus James", correct: false},
+
+        ]
+    },
+    {
         questions: "which is the smallest continent in the world",
         answer:[
             {text: "A. Africa", correct: false},
